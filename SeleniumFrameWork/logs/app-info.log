@@ -1,0 +1,12 @@
+[INFO ] 2021-06-15 20:42:43.353 [main] log4j_Demo - 
+...this is info message
+
+[ERROR] 2021-06-15 20:42:43.365 [main] log4j_Demo - 
+ this is error msg
+
+[FATAL] 2021-06-15 20:42:43.366 [main] log4j_Demo - 
+ this is fatal msg..
+
+[WARN ] 2021-06-15 20:42:43.367 [main] log4j_Demo - 
+ this is warning msg 
+
